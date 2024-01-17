@@ -5,6 +5,25 @@
 
 <div id="user-content-toc">
   <ul align="center">
+    <summary><h2 style="display: inline-block">About Me📖</h2></summary>
+  </ul>
+</div>
+
+<!--Intro start-->
+🎓  I'm a **Computer Engineer** from the **Faculty of Engineering (UNAM)**.
+
+📃 I have a **diploma in mobile application development** for **Android and iOS**.
+
+📱 Mobile developer Jr (Android & iOS)
+
+🌱 I'm on track for learning more about **technologies and tools for the mobile device environment.**
+
+📫 Feel free to reach me out **juan.guatirojo18@gmail.com**
+<!--Intro end-->
+
+
+<div id="user-content-toc">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
