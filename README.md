@@ -50,6 +50,27 @@
 
 <br>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Projects 💻👑</h2></summary>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with me 🤝🏻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/juancervantesguati">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+  </a>
+  <a href="mailto:juan.guatirojo18@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+  </a>
+</p>
+
 
 <!--
 **JuanGR-FI/JuanGR-FI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
