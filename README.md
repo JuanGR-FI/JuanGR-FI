@@ -53,10 +53,12 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My Projects 💻👑</h2></summary>
+    <img alt="Work in Progress" src="https://github.com/JuanGR-FI/JuanGR-FI/blob/main/assets/work_in_progress.gif" align="center"/>
   </ul>
+  
 </div>
 
-<img alt="Work in Progress" src="" align="center"/>
+
 
 <div id="user-content-toc">
   <ul align="center">
