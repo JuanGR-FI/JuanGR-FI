@@ -3,7 +3,7 @@
 
 <br>
 
-![Juan Cervantes Banner]()
+![Juan Cervantes Banner](https://github.com/JuanGR-FI/JuanGR-FI/blob/main/assets/juangrfi_banner.png)
 
 <div id="user-content-toc">
   <ul align="center">
