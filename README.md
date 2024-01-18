@@ -56,6 +56,8 @@
   </ul>
 </div>
 
+<img alt="Work in Progress" src="" align="center"/>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect with me 🤝🏻</h2></summary>
