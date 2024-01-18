@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Juan Cervantes</h1>
+<h1 align="center">Hi there 👋, I'm Juan Andrés Cervantes</h1>
 <h3 align="center">Computer Engineer, UNAM 🎓</h3>
 
 <br>
@@ -16,7 +16,7 @@
 
 📃 I have a **diploma in mobile application development** for **Android and iOS**.
 
-📱 Mobile developer Jr (Android & iOS)
+📱 **Mobile developer Jr** (Android & iOS)
 
 🌱 I'm on track for learning more about **technologies and tools for the mobile device environment.**
 
