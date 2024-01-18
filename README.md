@@ -38,6 +38,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
+    <summary><h2 style="display: inline-block">My Projects 💻👑</h2></summary>
+    <img alt="Work in Progress" src="https://github.com/JuanGR-FI/JuanGR-FI/blob/main/assets/work_in_progress.gif" align="center"/>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
     <summary><h2 style="display: inline-block">GitHub Analytics📊</h2></summary>
   </ul>
 </div>
@@ -49,16 +56,6 @@
     bg_color=#808080/></p>
 
 <br>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My Projects 💻👑</h2></summary>
-    <img alt="Work in Progress" src="https://github.com/JuanGR-FI/JuanGR-FI/blob/main/assets/work_in_progress.gif" align="center"/>
-  </ul>
-  
-</div>
-
-
 
 <div id="user-content-toc">
   <ul align="center">
